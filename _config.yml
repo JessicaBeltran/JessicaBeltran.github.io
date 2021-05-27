@@ -14,7 +14,7 @@ author: Jessica Beltran Puerta
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About me"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/JFMF.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: FALSE
+round-avatar: TRUE
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter

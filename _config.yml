@@ -40,10 +40,10 @@ round-avatar: TRUE
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "beltranpuerta.jessica@gmail.com"
-  facebook: Jessica Beltrán
+  #facebook: Jessica Beltrán
   github: JessicaBeltran
   twitter: JessicaBeltranP
-  patreon: DeanAttali
+  #patreon: DeanAttali
   youtube: Jessica Beltran Puerta
 #  medium: yourname
 #  reddit: yourname
